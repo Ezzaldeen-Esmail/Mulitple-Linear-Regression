@@ -42,9 +42,6 @@
    - Testing regularization methods (Ridge, Lasso, Elastic Net) if the dataset suggests high variance or multicollinearity.  
    - Including more advanced model evaluation metrics and visualization.  
 
-### Contributing
-If you find any bugs or want to add new features, feel free to open an issue or create a pull request. Contributions are always welcome!
-
 ### Dataset: on kaggle:
 https://www.kaggle.com/datasets/ezzaldeenesmail/fuel-consumption-co2/data
 ---
