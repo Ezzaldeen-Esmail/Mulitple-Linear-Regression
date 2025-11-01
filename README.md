@@ -1,9 +1,4 @@
 # Mulitple-Linear-Regression
-Below is a sample description you can add to your repository’s README file to explain what the **`Mulitple-Linear-Regression-v1.ipynb`** notebook does, how it works, and why it might be useful. Feel free to adjust it to match the exact content of your notebook.
-
----
-
-## Multiple Linear Regression Notebook
 
 **`Mulitple-Linear-Regression-v1.ipynb`** is a Jupyter Notebook that demonstrates how to implement and interpret a Multiple Linear Regression model. It walks through the steps required to take a dataset, preprocess it, build a regression model, and evaluate its performance. Below is an outline of the key topics covered:
 
